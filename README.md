@@ -17,3 +17,6 @@ the "Deliver" stage of your Pipeline.
 
 
 Testing WBHook Integration
+
+
+simple-java-maven-app
